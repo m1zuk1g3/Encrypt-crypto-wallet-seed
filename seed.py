@@ -41,7 +41,7 @@ if __name__ == "__main__":
     import datetime
 
     input_file_name = "s.txt"
-    output_file_name = "numeric_sequence.txt"
+    output_file_name = "seed.txt"
 
     words_list = read_words_from_file(input_file_name)
 
